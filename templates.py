@@ -22,7 +22,9 @@ list_of_files = [
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
-    "experiment/experiments.ipynb"
+    "experiment/experiments.ipynb",
+    "src/exception/exception.py",
+    "src/logger/logging.py"
 ]
 
 # Loop through each file path and create directories and files if they don't exist
